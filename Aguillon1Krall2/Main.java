@@ -12,6 +12,6 @@ public class Main {
     }
 
     public void cleanFile(File file) {
-	System.out.println("File clean");
+	System.out.println("File cleaned");
     }
 }
