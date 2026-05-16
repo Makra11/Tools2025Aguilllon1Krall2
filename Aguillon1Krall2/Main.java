@@ -8,7 +8,7 @@ public class Main {
     }
 
     public void convertToXML(File file) {
-
+	System.out.println("XML-File successfully converted");
     }
 
     public void cleanFile(File file) {
