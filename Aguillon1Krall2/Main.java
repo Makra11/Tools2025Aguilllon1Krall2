@@ -14,4 +14,8 @@ public class Main {
     public void cleanFile(File file) {
 	System.out.println("File cleaned");
     }
+
+    public void Franz(){
+	System.out.println("He fooled us");
+    }
 }
