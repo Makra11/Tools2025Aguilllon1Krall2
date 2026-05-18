@@ -18,4 +18,7 @@ public class Main {
     public void Franz(){
 	System.out.println("He fooled us");
     }
+    public void IreneLuise(){
+	System.out.println("We fooled you");
+    }
 }
